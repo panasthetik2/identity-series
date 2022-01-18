@@ -1,0 +1,18 @@
+site_name: Identity
+
+nav:
+    - Home: index.md
+    - Introduction: introduction.md
+
+# site_name: Jason's First Project
+
+# nav:
+#     - Home: index.md
+#     - About: about.md
+#     - Code: code.md
+#     - Extensions: extens.md
+#     - Further Reading: further.md
+#     - Contact: contact.md
+
+# # theme:  readthedocs
+theme: material
