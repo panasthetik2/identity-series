@@ -3,6 +3,7 @@ site_name: Decentralized Identity
 nav:
     - Home: index.md
     - Introduction: introduction.md
+    - Current Landscape: landscape.md
 
 # site_name: Jason's First Project
 
