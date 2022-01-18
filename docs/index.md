@@ -1,6 +1,7 @@
-# Identity Series Homepage
+# Truly Self-Sovereign vs. Legacy ‘Hosted Solutions’ : Why the Power Grab For Web3 Identity Data Is Already On.
 
-This is a selection of articles about decentralized identity and self-sovereign data.
+
+*This is a selection of articles about decentralized identity and self-sovereign data*.
 
 copyright 2022 by Jason Jagello (Panasthetik).
 
