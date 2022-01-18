@@ -14,5 +14,5 @@ nav:
 #     - Further Reading: further.md
 #     - Contact: contact.md
 
-# # theme:  readthedocs
-theme: material
+theme:  readthedocs
+# theme: material
