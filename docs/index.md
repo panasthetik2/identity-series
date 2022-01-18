@@ -1,5 +1,9 @@
 # Identity Series Homepage
 
+This is a selection of articles about decentralized identity.
+
+copyright 2022 by Jason Jagello (Panasthetik).
+
 
 
 <!-- ## Commands
