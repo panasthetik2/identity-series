@@ -10,11 +10,12 @@ In Europe’s case, the Electronic Frontier Foundation (EFF) recently issued a r
 
 Meanwhile regarding stablecoins and the privacy debate around crypto transactions, the US Federal Reserve continues to explore further regulatory scrutiny of private-sector solutions (Circle, Tether) while simultaneously entertaining the possibility of a digital USD. As has been noted particularly often in confronting the federal USD coin proposal: if it is not designed and implemented with financial privacy first and foremost, the DUSD would merely result in unintentionally recreating the granular financial surveillance of the Chinese digital yuan here in the United States.
 
-A similar example of experimental approaches to digital credentials in addressing a widespread need for rapid innovation is the COVID passport controversy. The early issues with recording testing, diagnosis and isolation globally (through tracking apps, some of which were proposed as blockchain setups) perhaps added an even more sinister dimension to what would be, on the surface, an altruistic desire to move toward a more equitable, transparent world for our online data. 
+<!-- A similar example of experimental approaches to digital credentials in addressing a widespread need for rapid innovation is the COVID passport controversy. The early issues with recording testing, diagnosis and isolation globally (through tracking apps, some of which were proposed as blockchain setups) perhaps added an even more sinister dimension to what would be, on the surface, an altruistic desire to move toward a more equitable, transparent world for our online data.  -->
 
 The reason for this dilemma as exemplified by the above examples, is that often what is first presented as a novel, democratic way to verify or track a new data item holds a danger of becoming a sweeping, top-down imposed standard for social control. Even Apple’s announcement in 2021 of the capability for iPhone users to incorporate their wallet, including driver’s license, into their phone has not necessarily resulted in overwhelming enthusiasm for early adoption (even though many US states have now approved this as valid identification).  
 
 It is possible that all the negative press concerning data stewardship by the major tech players in the last few years has created a general consumer distrust that may hinder what should be more rapid adoption of these identity innovations.
 
 
-[^1]: *“EU’s Digital Identity Framework Endangers Browser Security,” Alexis Hancock, December 2021. https://www.eff.org/deeplinks/2021/12/eus-digital-identity-framework-endangers-browser-security .*
+[^1]: *“EU’s Digital Identity Framework Endangers Browser Security,” Alexis Hancock, December 2021*. 
+https://www.eff.org/deeplinks/2021/12/eus-digital-identity-framework-endangers-browser-security 
