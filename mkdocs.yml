@@ -18,3 +18,5 @@ nav:
 
 theme:  readthedocs
 # theme: material
+markdown-extensions:
+    - footnotes
