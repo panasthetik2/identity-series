@@ -18,4 +18,4 @@ It is possible that all the negative press concerning data stewardship by the ma
 
 
 [^1]: *“EU’s Digital Identity Framework Endangers Browser Security,” Alexis Hancock, December 2021*. 
-https://www.eff.org/deeplinks/2021/12/eus-digital-identity-framework-endangers-browser-security 
+[https://www.eff.org/deeplinks/2021/12/eus-digital-identity-framework-endangers-browser-security](https://www.eff.org/deeplinks/2021/12/eus-digital-identity-framework-endangers-browser-security)
