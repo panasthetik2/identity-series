@@ -1,6 +1,6 @@
 # Identity Series Homepage
 
-This is a selection of articles about decentralized identity.
+This is a selection of articles about decentralized identity and self-sovereign data.
 
 copyright 2022 by Jason Jagello (Panasthetik).
 
